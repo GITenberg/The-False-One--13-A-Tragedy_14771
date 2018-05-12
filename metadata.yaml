@@ -1,0 +1,43 @@
+_repo: The-False-One--13-A-Tragedy_14771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Beaumont, Francis
+    alias: Beamont, Francis
+    birthdate: 1584
+    deathdate: 1616
+    gutenberg_agent_id: '3603'
+    url: http://www.gutenberg.org/2009/agents/3603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Beaumont
+  - agent_name: Fletcher, John
+    aliases:
+    - Fletcher, Iohn
+    - Flecher, John
+    birthdate: 1579
+    deathdate: 1625
+    gutenberg_agent_id: '4606'
+    url: http://www.gutenberg.org/2009/agents/4606
+    wikipedia: http://en.wikipedia.org/wiki/John_Fletcher_(playwright)
+  editor:
+    agent_name: Glover, Arnold
+    birthdate: 1865
+    deathdate: 1905
+    gutenberg_agent_id: '39381'
+    url: http://www.gutenberg.org/2009/agents/39381
+description: ''
+gutenberg_issued: '2005-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama'
+title: 'The False One: A Tragedy'
+url: http://www.gutenberg.org/ebooks/14771
