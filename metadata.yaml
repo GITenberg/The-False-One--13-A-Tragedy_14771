@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '39381'
     url: http://www.gutenberg.org/2009/agents/39381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14771#The-False-One--13-A-Tragedy
 gutenberg_issued: '2005-01-23'
 gutenberg_type: Text
 identifiers:
